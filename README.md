@@ -1,4 +1,4 @@
-## Hi there 👋, I am Ayush..
+## Hi there 👋, I'm Ayush..
 
 # 💫 About Me:
 B.Tech CSE (3rd year) student focused on DSA in C++, databases, and software engineering fundamentals. Exploring stock market analysis, web development, and building a foundation in AI/ML, with a strong interest in quantitative and data-driven problem solving.
