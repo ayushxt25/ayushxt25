@@ -15,7 +15,7 @@ B.Tech CSE (3rd year) student focused on DSA in C++, databases, and software eng
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayushxt25&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayushxt25&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushxt25&theme=github_dark)
 
 ---
 
