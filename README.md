@@ -1,6 +1,6 @@
 ## Welcome to Ayush's Github
 
-# 💫 About Me:
+# About Me:
 Computer Science student focused on full-stack development, data-driven applications, and AI/ML systems. I build practical projects using React, Node.js, FastAPI, MongoDB, and Python, with strong interest in clean backend architecture, REST APIs, databases, and intelligent software products. Currently strengthening my DSA, system design fundamentals, and production-grade project development.
 
 ## Connect with me 
@@ -63,6 +63,10 @@ Computer Science student focused on full-stack development, data-driven applicat
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayushxt25&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushxt25&theme=github_dark)
+
+## 📈 Contribution Graph
+
+![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushxt25&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
 ---
 
