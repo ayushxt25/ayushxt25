@@ -1,10 +1,10 @@
-## Hi there 👋, I'm Ayush..
+## Welcome to Ayush's Github
 
 # 💫 About Me:
 Computer Science student focused on full-stack development, data-driven applications, and AI/ML systems. I build practical projects using React, Node.js, FastAPI, MongoDB, and Python, with strong interest in clean backend architecture, REST APIs, databases, and intelligent software products. Currently strengthening my DSA, system design fundamentals, and production-grade project development.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushhxttt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Ayush Giri](https://www.linkedin.com/in/ayush-giri-04544a348/)) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Ayushhxttt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushgiri2125@gmail.com) 
+## Connect with me 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushhxttt) [![LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-giri-04544a348/)04544a348/)) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Ayushhxttt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushgiri2125@gmail.com) 
 
 # 💻 Tech Stack:
 
