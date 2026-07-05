@@ -10,7 +10,7 @@ Computer Science student focused on full-stack development, data-driven applicat
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Ayushhxttt)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushgiri2125@gmail.com)
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
