@@ -54,13 +54,14 @@ Computer Science student focused on full-stack development, data-driven applicat
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushxt25&show_icons=true&theme=github_dark&hide_border=false)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushxt25&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayushxt25&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushxt25&layout=compact&theme=github_dark&hide_border=false)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushxt25&theme=github_dark)
 
 ## 📈 Contribution Graph
 
