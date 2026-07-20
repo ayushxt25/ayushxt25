@@ -59,7 +59,7 @@ Computer Science student focused on full-stack development, data-driven applicat
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushxt25&theme=github_dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushxt25&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayushxt25&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushxt25&theme=github_dark)
 
