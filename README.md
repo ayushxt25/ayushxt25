@@ -1,7 +1,10 @@
 ## Welcome to Ayush's Github
 
 # About Me:
-Computer Science student focused on full-stack development, data-driven applications, and AI/ML systems. I build practical projects using React, Node.js, FastAPI, MongoDB, and Python, with strong interest in clean backend architecture, REST APIs, databases, and intelligent software products. Currently strengthening my DSA, system design fundamentals, and production-grade project development.
+
+I work primarily on backend systems, with a particular interest in what happens beyond the API layer: task execution, concurrency, failure recovery, data consistency, and observability.
+
+My projects span durable workflow engines, distributed task processing, AI agent orchestration, and retrieval systems. I mainly work with Python, Java, TypeScript, PostgreSQL, Redis, and Docker.
 
 ## Connect with me 
 
