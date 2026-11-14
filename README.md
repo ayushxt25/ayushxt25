@@ -68,14 +68,10 @@ My projects span durable workflow engines, distributed task processing, AI agent
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushxt25&theme=github_dark)
 
-## 📈 Contribution Graph
 
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
+## 📈 Contribution Activity
+
+![GitHub Contribution Activity](https://raw.githubusercontent.com/ayushxt25/ayushxt25/output/contributions.svg)
 
 ---
 
