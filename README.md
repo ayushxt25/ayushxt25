@@ -68,9 +68,11 @@ My projects span durable workflow engines, distributed task processing, AI agent
 
 ## 📈 Contribution Graph
 
-![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushxt25&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ayushxt25&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
