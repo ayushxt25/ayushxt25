@@ -1,0 +1,20 @@
+
+name: Update Contribution Chart
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: pipipi-dev/gcchart@v1
+        with:
+          github_user_name: ayushxt25
+          outputs: |
+            contributions.svg?period=365&granularity=week&style=clean&theme=dark&cumulative=true
