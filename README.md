@@ -10,6 +10,7 @@ My projects span durable workflow engines, distributed task processing, AI agent
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-giri-04544a348/)&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://ayush-portfolio-tawny-six.vercel.app/)&nbsp;&nbsp;
+[![PM Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://pmportfolio-three.vercel.app/)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushgiri2125@gmail.com)&nbsp;&nbsp;
 
 
